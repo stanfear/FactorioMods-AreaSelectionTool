@@ -1,0 +1,8 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "title": "test",
+  "author": "StanFear",
+  "dependencies": ["base >= 0.12.20"],
+  "description": "Adds the ability to dig the underground !!"
+}
